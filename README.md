@@ -1,2 +1,2 @@
 # ActiveMQDemo
-关于ActiveMQ的一些小demo
+关于ActiveMQ的一些小demo~
